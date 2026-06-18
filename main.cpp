@@ -29,6 +29,10 @@ int main(){
     std::cout << "Tax: $" << gov_tax << std::endl;
     std::cout << "Cost: $" << final_cost << std::endl;
 
+    for(int i = 0; i < 2; i++){
+        
+    }
+
 
 
 
