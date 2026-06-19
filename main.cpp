@@ -11,7 +11,7 @@ int main(){
     double total_sales = 0;
     std::cout << std::fixed << std::setprecision(2);
 
-    for(int i = 0; i < 2; i++){
+    for(int i = 0; i < 3; i++){
         std::cout << "Order #" << (i + 1) << std::endl;
 
         std::cin >> price_per_square_foot;    
